@@ -1,3 +1,5 @@
+# python -m venv {nombre del entorno}
+CMD: .\env\Scripts\activate
 ## pip install pillow
 ## pip install tweepy
 # UML
