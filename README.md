@@ -17,6 +17,16 @@ MemeBot es un bot desarrollado en Python que genera memes de forma automática u
 
 ---
 
+## 📍 Cuenta Oficial
+
+Los memes generados por este bot se publican en la siguiente cuenta de Twitter (X):
+
+🔗 [@MomazosyuyoBot](https://x.com/MomazosyuyoBot)
+
+¡Síguela para ver los memes más recientes generados automáticamente!
+
+---
+
 ## 🧰 Tecnologías Usadas
 
 - [Python 3.x](https://www.python.org/)
